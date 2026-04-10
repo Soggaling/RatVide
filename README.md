@@ -1,2 +1,22 @@
-# RatVide
-Remote Access Program all customisable
+# 🔱 SoggaBoard v2.7 (Cross-Platform C2)
+
+SoggaBoard is a high-performance, lightweight Remote Administration Tool (RAT) and monitoring dashboard. It supports a Windows-hosted server and Linux/Windows clients with real-time screen streaming, webcam access, and a remote shell.
+
+### ⚡ Features
+* **Dual-Stream Engine:** High-speed Screen and Webcam streaming (optimized for low-latency).
+* **Remote Console:** Fully interactive remote shell with scrollable output.
+* **Precision Control:** Click-through mouse mapping and keyboard injection.
+* **Heartbeat System:** Auto-reconnect and persistent dashboard status.
+* **Stealth Design:** Designed to run as a background service.
+
+### 🛠️ Structure
+* `linuxserver.py`: The C2 Dashboard (Flask-SocketIO).
+* `windowsserver.py`: The Windows C2 Dashboard.
+* `wincli.py`: The Windows client.
+* `linuxcli.py`: The Linux Client.
+### 🚀 Setup
+1. **Server:** Run `python server.py` on your host machine. Access the UI at `http://your-ip:8888`.
+2. **Client:** Run the compiled binary on the target machine. Ensure it points to the Server IP.
+
+### ⚠️ Disclaimer
+This tool is for educational purposes and authorized testing only. Usage on unauthorized systems is strictly prohibited.
