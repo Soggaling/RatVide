@@ -18,5 +18,31 @@ SoggaBoard is a high-performance, lightweight Remote Administration Tool (RAT) a
 1. **Server:** Run `python server.py` on your host machine. Access the UI at `http://your-ip:8888`.
 2. **Client:** Run the compiled binary on the target machine. Ensure it points to the Server IP.
 
-### ⚠️ Disclaimer
-This tool is for educational purposes and authorized testing only. Usage on unauthorized systems is strictly prohibited.
+--------------------------------------
+## Here Are Some Upcoming Updates ##
+- -- Multi-Client Support --
+- -- Linux Screenshare/Control Fix --
+- -- Mic Enabler (Turn mic on/off) --
+## Other Tools ##
+- -- Recon KIT --
+- -- IP Grabber --
+- -- EXE Encryption -- 
+- -- File Dropper --
+- -- Backdoor scripts --
+- -- IP Logging scripts --
+- -- Info Stealer --
+- -- Keylogger --
+
+## Side Projects ##
+these are gonna be some side projects ill add here
+- -- Custom OS (Linux build obv) --
+- -- Custom Roblox Executor (highly doubt) --
+- -- Custom Privacy Browser (Yeah theres no way i can do this without AI) -- 
+
+# Notes #
+Not all of this will be done at once.
+these will all be more than likely done seperately over the year so dont expect it all to happen immediately.
+As always suggest ideas at: https://discord.gg/29uepW58st
+byeee!!!!
+Oh yeah and this list will continue to be updated throughout the year btw 
+--------------------------------------
