@@ -1,23 +1,23 @@
 --------------------------------------
 ## Here Are Some Upcoming Updates ##
--- Multi-Client Support --
--- Linux Screenshare/Control Fix --
--- Mic Enabler (Turn mic on/off) --
+- -- Multi-Client Support --
+- -- Linux Screenshare/Control Fix --
+- -- Mic Enabler (Turn mic on/off) --
 ## Other Tools ##
--- Recon KIT --
--- IP Grabber --
--- EXE Encryption -- 
--- File Dropper --
--- Backdoor scripts --
--- IP Logging scripts --
--- Info Stealer --
--- Keylogger --
+- -- Recon KIT --
+- -- IP Grabber --
+- -- EXE Encryption -- 
+- -- File Dropper --
+- -- Backdoor scripts --
+- -- IP Logging scripts --
+- -- Info Stealer --
+- -- Keylogger --
 
 ## Side Projects ##
 these are gonna be some side projects ill add here
--- Custom OS (Linux build obv) --
--- Custom Roblox Executor (highly doubt) --
--- Custom Privacy Browser (Yeah theres no way i can do this without AI) -- 
+- -- Custom OS (Linux build obv) --
+- -- Custom Roblox Executor (highly doubt) --
+- -- Custom Privacy Browser (Yeah theres no way i can do this without AI) -- 
 
 # Notes #
 Not all of this will be done at once.
