@@ -33,6 +33,8 @@ SoggaBoard is a high-performance, lightweight Remote Administration Tool (RAT) a
 - -- Info Stealer --
 - -- Keylogger --
 - -- dll injection scripts --
+- -- HWID Spoofer --
+- -- MAC Address Spoofer --
 
 ## Side Projects ##
 these are gonna be some side projects ill add here
