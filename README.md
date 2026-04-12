@@ -20,8 +20,8 @@ SoggaBoard is a high-performance, lightweight Remote Administration Tool (RAT) a
 
 --------------------------------------
 ## Here Are Some Upcoming Updates ##
-- -- Multi-Client Support --
-- -- Linux Screenshare/Control Fix --
+- ̶-̶-̶ ̶M̶u̶l̶t̶i̶-̶C̶l̶i̶e̶n̶t̶ ̶S̶u̶p̶p̶o̶r̶t̶ ̶-̶-̶
+- ̶-̶-̶ ̶L̶i̶n̶u̶x̶ ̶S̶c̶r̶e̶e̶n̶s̶h̶a̶r̶e̶/̶C̶o̶n̶t̶r̶o̶l̶ ̶F̶i̶x̶ ̶-̶-̶
 - -- Mic Enabler (Turn mic on/off) --
 ## Other Tools ##
 - -- Recon KIT --
